@@ -2,7 +2,9 @@
 
 I'm a researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu/), AI enthusiast, passionate about applied Machine Learning research. 
 
-* Theme of my current research: Human-Centered AI particularly focusing on Personalization in Cyber-Physical-Social System (CPSS). 
+* ✒ 🔎	 The theme of my research is Human-Centered Artificial Intelligence particularly focusing on Personalisation in Cyber-Physical-Social System (CPSS). 
+
+*✒ 🛠	  I am currently working on <b>Deep Reinforcement Learning for Personalized adaptation in Cobotics.</b>
 
 * I would love to collaborate on [MSARG](https://github.com/Bekyilma/Multi-Stakeholder_Recommendation)
 
