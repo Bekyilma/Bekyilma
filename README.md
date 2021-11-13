@@ -6,7 +6,7 @@ I'm a researcher at the [Luxembourg Institute of Science and Technology](https:/
 
 
 * 🛠  &nbsp;	 I am currently working on <b>Deep Reinforcement Learning for Personalised adaptation in Cobotics</b> with [UNIVERSAL ROBOT](https://www.universal-robots.com) UR5.
-* I would love to collaborate on [MSARG](https://github.com/Bekyilma/Multi-Stakeholder_Recommendation)
+* I would love to collaborate on [MSarg](https://github.com/Bekyilma/Multi-Stakeholder_Recommendation)
 
 
 
