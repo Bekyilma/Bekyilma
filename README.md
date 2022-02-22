@@ -1,11 +1,11 @@
-### Hi there 👋 
+### Hi there 👋  
 
-I'm a researcher at the [Luxembourg Institute of Science and Technology](https://www.list.lu/), AI enthusiast, passionate about applied Machine Learning research. 
+I'm a Postdoctoral researcher at the [University of Luxembourg](https://www.uni.lu/), AI enthusiast, passionate about applied Machine learning and Data-Driven Solutions.
 
-* 🔎  &nbsp;	 The theme of my research is Human-Centered AI, focusing on Personalisation in Cyber-Physical-Social System (CPSS). 
+* 🛠  &nbsp;	 I am currently working on <b>Brain-Computer Interfaces (BCI)</b> in the framework of project [BANANA](https://www.chistera.eu/projects/banana), Brainsourcing for Affective Attention Estimation.
 
+* 🔎  &nbsp;	 My research interests cover different areas in Human-Centered Artificial Intelligence including Recommender Systems, Adaptive User Interfaces and Personalisation in the context of Smart interactive environments (a.k.a. Cyber-Physical-Social Systems (CPSS)).
 
-* 🛠  &nbsp;	 I am currently working on <b>Deep Reinforcement Learning for Personalised adaptation in Cobotics</b> with [UNIVERSAL ROBOT](https://www.universal-robots.com) UR5.
 * I would love to collaborate on [MSarg](https://github.com/Bekyilma/MS_arg)
 
 
