@@ -2,7 +2,7 @@
 
 I'm a Postdoctoral researcher at the [University of Luxembourg](https://www.uni.lu/), AI enthusiast, passionate about applied Machine learning and Data-Driven Solutions.
 
-* 🛠  &nbsp;	 I am currently contributing to <b>Brain-Computer Interfaces (BCI)</b> in the framework of project [BANANA](https://www.chistera.eu/projects/banana), Brainsourcing for Affective Attention Estimation.
+* 🛠  &nbsp;	 I am currently contributing to <b>Brain-Computer Interfaces (BCI)</b> research in the framework of project [BANANA](https://www.chistera.eu/projects/banana), Brainsourcing for Affective Attention Estimation.
 
 * 🔎  &nbsp;	 My research interests cover different areas in Human-Centered Artificial Intelligence including Recommender Systems, Adaptive User Interfaces and Personalisation in the context of Smart interactive environments (a.k.a. Cyber-Physical-Social Systems (CPSS)).
 
