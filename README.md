@@ -6,8 +6,6 @@ I'm a Postdoctoral researcher at the [University of Luxembourg](https://www.uni.
 
 * 🔎  &nbsp;	 My research interests cover different areas in Human-Centered Artificial Intelligence including Recommender Systems, Adaptive User Interfaces and Personalisation in the context of Smart interactive environments (a.k.a. Cyber-Physical-Social Systems (CPSS)).
 
-* I would love to collaborate on [MSarg](https://github.com/Bekyilma/MS_arg)
-
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-BereketYILMA-Black?style=flat-square&logo=&link=https://surafelml.github.io)](https://bekyilma.github.io/)
