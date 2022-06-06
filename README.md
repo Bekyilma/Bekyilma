@@ -13,4 +13,4 @@ I'm a Postdoctoral researcher at the [University of Luxembourg](https://www.uni.
 [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surafelml/)](https://www.linkedin.com/in/bekyilma/)
 
 
-![](https://komarev.com/ghpvc/?username=bekyilma&style=flat-square)
+
